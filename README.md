@@ -13,6 +13,6 @@ here's the source code of my cryptography project
   
 additional files:   
    some *.txt files are provided, that's the key and plaintext you need to run the program, of courese you can modify them.   
-   dict.txt needed in password evaluation
-   data.txt and random.txt needed to plot the normal distribution
+   dict.txt needed in password evaluation   
+   data.txt and random.txt needed to plot the normal distribution   
   
